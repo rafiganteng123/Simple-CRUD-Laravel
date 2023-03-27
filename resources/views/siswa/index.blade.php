@@ -48,7 +48,7 @@
         @endforeach
     </table>
         <div class="float-start">
-            <a href="{{ route('siswa.create') }}" class="btn btn-primary">Tambah</a>
+            <a href="{{ route('siswa.create') }}" class="btn btn-success">Tambah</a>
         </div>
 
         <div class="float-end">
